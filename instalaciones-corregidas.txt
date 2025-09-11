@@ -1,1 +1,1 @@
-pip install jupyter nbformat ipykernel
+pip install pandas plotly-express streamlit jupyter nbformat ipykernel
